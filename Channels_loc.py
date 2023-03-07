@@ -18,7 +18,7 @@ import os
 #     montage = mne.channels.make_standard_montage(montage_name)
 #     fig = montage.plot()
 
-data_path = "C:/Users/carus/Desktop/Health Technologies/rest"
+data_path = "insert here path"
 
 sfreq = 125
 n_channels = 16
