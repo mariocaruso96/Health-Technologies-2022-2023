@@ -2,6 +2,8 @@
 """
 Created on Tue Feb 14 18:46:44 2023
 
+#Use this code for the connectome analysis.
+
 @author: mik16
 """
 
